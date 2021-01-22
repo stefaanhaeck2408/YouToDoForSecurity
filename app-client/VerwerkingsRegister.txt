@@ -1,0 +1,26 @@
+Naam en contactgegevens verantwoordelijke
+    Stefaan Haeck stefaan.haeck@student.ehb.be
+
+Naam en contactgegevens DPO
+    Niet van toepassing
+
+Verwerkingsdoeleinden
+    Aanbieden van de juiste todo list aan de juiste gebruiker
+
+Beschrijving categorieen betrokkenen
+    Gebruikers
+
+Beschrijving categorieen persoonsgegevens
+    Email adressen
+
+Categorieen van ontvangers
+    Cloudopslag
+
+Eventueel, doorgiften aan derde landen
+    Niet van toepassing
+
+Beoogde bewaringstermijn
+    Zolang de gebruiker een todo list heeft op de website
+
+Algemene beschrijving technische en organisatorische beveilingsmaatregelen
+    Toegangscontrole voordat een gebruiker data kan ophalen uit database
